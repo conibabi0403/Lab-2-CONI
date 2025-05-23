@@ -80,6 +80,8 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- 2 tablespoons brown sugar
+- 1 teaspoon garlic powder 
 
 Instructions:
 1. Preheat grill to medium-high heat.
