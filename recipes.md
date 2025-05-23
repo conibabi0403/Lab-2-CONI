@@ -103,6 +103,18 @@ Ingredients:
 - 4 tsp vanilla extract
 - 2/5 cups semisweet chocolate chips
 
+### Oreo cheesecake
+Ingredients:
+
+- 24 Oreo cookies, crushed (for crust)
+- 1/4 cup unsalted butter, melted
+- 3 (8 oz) packages cream cheese, softened
+- 1 cup white sugar
+- 1 tsp vanilla extract
+- 3 large eggs
+- 1/2 cup sour cream
+- 12 Oreo cookies, roughly chopped (for filling)
+
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
