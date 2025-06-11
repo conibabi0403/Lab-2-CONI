@@ -60,7 +60,7 @@ Ingredients:
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
 - 4 tomato 
-- 3 spoon of ketchup
+- 3 spoon of ketchup1
 
 Instructions:
 1. Cook spaghetti according to package instructions.
